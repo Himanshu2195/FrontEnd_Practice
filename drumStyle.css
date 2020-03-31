@@ -109,7 +109,7 @@ body{
    text-shadow: 3px 0 #beebe9;
    height: 150px;
    width: 150px;
-   background-image:url('../img/kDrum.png');
+   background-image:url('/../img/kDrum.png');
 }
 .Lbutton{
    display: inline-block;
