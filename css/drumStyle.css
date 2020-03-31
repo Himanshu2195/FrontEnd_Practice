@@ -27,7 +27,7 @@ body{
    text-shadow: 3px 0 #beebe9;
    height: 150px;
    width: 150px;
-   background-image:url('img/redDrum3.png');
+   background-image:url('https://himanshu2195.github.io/FrontEnd_Practice/img/redDrum3.png');
 }
 .Abutton{
    display: inline-block;
