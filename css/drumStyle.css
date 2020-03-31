@@ -43,7 +43,7 @@ body{
    text-shadow: 3px 0 #beebe9;
    height: 150px;
    width: 150px; 
-   background-image:url('./img/redDrum4.png');
+   background-image:url('https://himanshu2195.github.io/FrontEnd_Practice/img/redDrum4.png');
     
 }
 .Sbutton{
@@ -60,7 +60,7 @@ body{
    text-shadow: 3px 0 #beebe9;
    height: 150px;
    width: 150px; 
-   background-image:url('/Frontend_Practice/img/sDrum.png');
+   background-image:url('https://himanshu2195.github.io/FrontEnd_Practice/img/sDrum.png');
 }
 .Dbutton{
    display: inline-block;
@@ -76,7 +76,7 @@ body{
    text-shadow: 3px 0 #beebe9;
    height: 150px;
    width: 150px; 
-   background-image:url('/img/redDrum2.png');
+   background-image:url('https://himanshu2195.github.io/FrontEnd_Practice/img/redDrum2.png');
 }
 .Jbutton{
    display: inline-block;
@@ -92,7 +92,7 @@ body{
    text-shadow: 3px 0 #beebe9;
    height: 150px;
    width: 150px; 
-   background-image:url('/img/jDrum.png');
+   background-image:url('https://himanshu2195.github.io/FrontEnd_Practice/img/jDrum.png');
 
 }
 .Kbutton{
@@ -109,7 +109,7 @@ body{
    text-shadow: 3px 0 #beebe9;
    height: 150px;
    width: 150px;
-   background-image:url('img/kDrum.png');
+   background-image:url('https://himanshu2195.github.io/FrontEnd_Practice/img/kDrum.png');
 }
 .Lbutton{
    display: inline-block;
@@ -126,7 +126,7 @@ body{
    text-shadow: 3px 0 #beebe9;
    height: 150px;
    width: 150px; 
-   background-image:url('/img/lDrum.png');
+   background-image:url('https://himanshu2195.github.io/FrontEnd_Practice/img/lDrum.png');
 }
 .footer{
   display: block;
