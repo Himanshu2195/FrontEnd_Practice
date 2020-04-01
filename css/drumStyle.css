@@ -12,6 +12,7 @@ body{
 }
 div{
     text-align:  center;
+    margin: 10% auto;
 }
 .Wbutton{
    display: inline-block;
