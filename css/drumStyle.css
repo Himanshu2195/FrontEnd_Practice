@@ -10,6 +10,9 @@ body{
    font-weight: bold;
    text-shadow: 3px 0 #f0134d;
 }
+div{
+    text-align:  center;
+}
 .Wbutton{
    display: inline-block;
    margin-left: 80px;
